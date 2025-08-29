@@ -2,6 +2,7 @@
 def main():
     #Checking if the code was found
     try:
+        #opens the text file and makes it look nice
         with open("Positive-Words.txt") as f:
             lines = f.readlines()
             words = [line.strip() for line in lines]
