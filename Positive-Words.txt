@@ -21,7 +21,7 @@ Creative
 Curious
 Classy
 Confident
-Conscientous
+Conscientious
 Dazzeling
 Delightful
 Down to Earth
@@ -49,7 +49,7 @@ Fashionable
 Foolproof
 Friendly
 Flawless
-Fortuitions
+Fortuitous
 Fancy
 Frank
 Genius
@@ -95,12 +95,12 @@ Kittenish
 Knightly
 Kalon
 Lovely
-Laundatory
+Laudatory
 Lively
 Lucky
 Luscious
-Luxuriours
-Lengendary
+Luxurious
+Legendary
 Loyal
 Lucid
 Merry
@@ -114,7 +114,7 @@ Munificent
 Meaningful
 Nice
 Noble
-Niffty
+Nifty
 Neat
 Nimble
 Nonpareil
@@ -193,7 +193,7 @@ Worthy
 Winsome
 X-factor
 Xeninal
-Yeomanly
+Yeoman
 Yippee
 Yes
 Yummy
